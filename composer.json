@@ -1,5 +1,5 @@
 {
-    "name": "spatie/laravel-sluggable",
+    "name": "unrulynatives/laravel-sluggable",
     "description": "Generate slugs when saving Eloquent models",
     "license": "MIT",
     "keywords": [
